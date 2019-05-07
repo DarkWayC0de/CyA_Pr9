@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Pr9.dir/src/DFA.cpp.o CMakeFiles/Pr9.dir/src/Estado.cpp.o CMakeFiles/Pr9.dir/src/GR.cpp.o CMakeFiles/Pr9.dir/src/main.cpp.o CMakeFiles/Pr9.dir/src/regla.cpp.o  -o Pr9 

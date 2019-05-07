@@ -1,0 +1,11 @@
+2
+a b 
+7
+S A B C D E F 
+S -> aA
+A -> aB | bE
+B -> aA | bC
+C -> aF | bD | ~
+D -> aF | bC
+E -> aF | bE
+F -> aF | bF | ~
